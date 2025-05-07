@@ -1,0 +1,6 @@
+_pycache_/
+*.pkl
+node_modules/
+.env
+*.pyc
+.DS_Store

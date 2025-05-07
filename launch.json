@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flask: Production (Waitress)",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/start_production.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
